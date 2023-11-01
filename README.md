@@ -11,7 +11,7 @@
 
  🌱 I’m currently learning **PHP, Javascript, HTML&CSS and Kotlin**
 
- 📫 How to reach me **arne0zillhardt@duck.com**
+ 📫 How to reach me **arne@zillhardt.com**
 
  📄 Know about my experiences [https://arne.zillhardt.com/](https://arne.zillhardt.com/)
 
